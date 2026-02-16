@@ -1,6 +1,6 @@
 # 📋 TurmaBoard API
 
-> **Hackathon Pós-Graduação — "Inovação no auxílio aos professores do ensino público"**
+> **Hackathon Pós-Tech — "Inovação no auxílio aos professores do ensino público"**
 
 **TurmaBoard** é um sistema de quadros estilo Kanban/Trello voltado para professores do ensino público organizarem suas tarefas e gerenciarem dúvidas dos alunos.
 
