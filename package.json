@@ -1,0 +1,24 @@
+{
+  "name": "turmaboard-api",
+  "version": "1.0.0",
+  "description": "TurmaBoard – Board de tarefas docentes e mural de dúvidas para turmas do ensino público",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "seed": "node src/seed.js"
+  },
+  "keywords": ["education", "kanban", "teachers", "students", "hackathon"],
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.6.0",
+    "morgan": "^1.10.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
